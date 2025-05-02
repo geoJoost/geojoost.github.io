@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Researcher Artificial Intelligence at Wageningen Marine Research, specializing in computer vision for environmental monitoring. With a background in Water Management and Geo-Information Science, I focus on combining both fields to develop innovative tools for studying marine systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before this, I worked on studying marine litter from satellite-based remote sensing at Wageningen University and the GFZ Helmholtz Centre for Geosciences. My contributions include the publication of the [SAMSelect](https://github.com/geoJoost/SAMSelect) algorithm for better visualizing multispectral Sentinel-2 data for marine litter and the development of the [LitterLines](https://github.com/geoJoost/LitterLines) dataset for detecting marine litter windrows in PlanetScope imagery. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I look forward to developing more fun and operational models in collaboration with the marine sciences domain.
